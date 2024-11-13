@@ -1,0 +1,21 @@
+{
+  "name": "node-estudos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "npm run lite",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "lite": "lite-server"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/RomaNFS21/node-estudos.git"
+  },
+  "author": "Victor Roma",
+  "license": "ISC",
+  "homepage": "https://github.com/<user>/<repository_path>",
+  "description": "projeto para praticar node.js",
+  "devDependencies": {
+  "lite-server": "^2.6.1"
+  }
+  }
